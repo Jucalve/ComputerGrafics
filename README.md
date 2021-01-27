@@ -19,5 +19,5 @@
 
 ## VLF with Zbuffer
 
-![Screenshot](Zbf.jpg)
+![Screenshot](Zbf1.jpg)
 
