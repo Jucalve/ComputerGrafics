@@ -23,4 +23,4 @@
 
 ## VLF with Illumination
 
-![Screenshot](FlatLigth.jpg)
+![Screenshot](FlatLigth.PNG)
