@@ -19,7 +19,7 @@
 
 ## VLF with Zbuffer
 
-![Screenshot](Zbf1.jpg)
+![Screenshot](ZB.PNG)
 
 ## VLF with Illumination
 
