@@ -24,3 +24,7 @@
 ## VLF with Illumination
 
 ![Screenshot](FlatLigth.PNG)
+
+## Cubic Hermite Interpolation
+
+![Screenshot](HermitCurves.PNG)
